@@ -6,4 +6,4 @@
  * @UseCase: Parkplatzbelegung
  * @UseCase: Zutrittskontrolle (QR-Code erzeugen, Tür öffnen)
  * @UseCase: E-Auto laden (optional)
- * @GeofencingServer (location-based applications): {@link https://tile38.com/}
+ * @GeofencingServer (location-based applications): { @link https://tile38.com/ }
