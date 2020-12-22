@@ -1,0 +1,172 @@
+OpenJDK Runtime Environment (build 14.0.2+12-46) from Oracle Corporation - OpenJDK 64-Bit Server VM (build 14.0.2+12-46, mixed mode) - Windows 10 10.0, architecture: amd64-64INFO      [11:05:45.847] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  113] - Tile38 Menu: 
+INFO      [11:05:45.854] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  114] - 1. Set position for polygon 
+INFO      [11:05:45.854] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  115] - 2. Set position for minimum bounding rectangle
+INFO      [11:05:45.855] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  116] - 3. Set position for point 
+INFO      [11:05:45.855] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  117] - 4. Get all defined objects 
+INFO      [11:05:45.855] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  118] - 5. Find out if object in area 
+INFO      [11:05:45.856] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  119] - 6. Remove all objects using same keyID 
+INFO      [11:05:45.856] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  120] - 7. Remove a specified object 
+INFO      [11:05:45.856] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  121] - 8. Rename a keyID 
+INFO      [11:05:45.857] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  122] - 9. Set server to read only mode 
+INFO      [11:05:45.857] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  123] - 10. Ping to server 
+INFO      [11:05:45.857] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  124] - 11. Get server information 
+INFO      [11:05:45.858] [main           ] [org.ict.geofencing.Main                 ] [Main.java           ] [ 1101] - Enter your choice: 
+INFO      [12:11:47.891] [setPositionForPolygon] [org.ict.geofencing.Main                 ] [Main.java           ] [  318] - Set position for a area...
+INFO      [12:11:47.892] [setPositionForPolygon] [org.ict.geofencing.Main                 ] [Main.java           ] [  319] - Enter keyID: 
+INFO      [12:12:10.862] [setPositionForPolygon] [org.ict.geofencing.Main                 ] [Main.java           ] [  325] - Enter field name: 
+INFO      [12:12:18.682] [setPositionForAreaGetNumberCorner] [org.ict.geofencing.Main                 ] [Main.java           ] [  256] - How many corner in area: 
+INFO      [12:12:28.093] [setPositionForAreaEnterLongitudeLatitude] [org.ict.geofencing.Main                 ] [Main.java           ] [  195] - Enter latitude of 1 corner: 
+INFO      [12:12:43.106] [setPositionForAreaEnterLongitudeLatitude] [org.ict.geofencing.Main                 ] [Main.java           ] [  197] - Enter longitude of 1 corner: 
+INFO      [12:12:49.379] [setPositionForAreaEnterLongitudeLatitude] [org.ict.geofencing.Main                 ] [Main.java           ] [  195] - Enter latitude of 2 corner: 
+INFO      [12:12:53.554] [setPositionForAreaEnterLongitudeLatitude] [org.ict.geofencing.Main                 ] [Main.java           ] [  197] - Enter longitude of 2 corner: 
+INFO      [12:12:58.045] [setPositionForAreaEnterLongitudeLatitude] [org.ict.geofencing.Main                 ] [Main.java           ] [  195] - Enter latitude of 3 corner: 
+INFO      [12:13:02.024] [setPositionForAreaEnterLongitudeLatitude] [org.ict.geofencing.Main                 ] [Main.java           ] [  197] - Enter longitude of 3 corner: 
+INFO      [12:13:05.976] [setPositionForAreaEnterLongitudeLatitude] [org.ict.geofencing.Main                 ] [Main.java           ] [  195] - Enter latitude of 4 corner: 
+INFO      [12:13:10.100] [setPositionForAreaEnterLongitudeLatitude] [org.ict.geofencing.Main                 ] [Main.java           ] [  197] - Enter longitude of 4 corner: 
+INFO      [12:13:15.354] [setPositionForAreaDisplayResponse] [org.ict.geofencing.Main                 ] [Main.java           ] [  166] - Successful set position for area fhDortmund sonnenstr
+INFO      [12:13:15.398] [main           ] [org.ict.geofencing.Main                 ] [Main.java           ] [ 1175] - Do it again? Enter N/n to quit. Other to do again: 
+INFO      [12:13:26.200] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  113] - Tile38 Menu: 
+INFO      [12:13:26.201] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  114] - 1. Set position for polygon 
+INFO      [12:13:26.201] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  115] - 2. Set position for minimum bounding rectangle
+INFO      [12:13:26.202] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  116] - 3. Set position for point 
+INFO      [12:13:26.202] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  117] - 4. Get all defined objects 
+INFO      [12:13:26.202] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  118] - 5. Find out if object in area 
+INFO      [12:13:26.202] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  119] - 6. Remove all objects using same keyID 
+INFO      [12:13:26.203] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  120] - 7. Remove a specified object 
+INFO      [12:13:26.203] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  121] - 8. Rename a keyID 
+INFO      [12:13:26.204] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  122] - 9. Set server to read only mode 
+INFO      [12:13:26.204] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  123] - 10. Ping to server 
+INFO      [12:13:26.204] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  124] - 11. Get server information 
+INFO      [12:13:26.204] [main           ] [org.ict.geofencing.Main                 ] [Main.java           ] [ 1101] - Enter your choice: 
+INFO      [12:14:10.372] [setPositionForMinimumBoundingRectangle] [org.ict.geofencing.Main                 ] [Main.java           ] [  409] - Set position for a area...
+INFO      [12:14:10.373] [setPositionForMinimumBoundingRectangle] [org.ict.geofencing.Main                 ] [Main.java           ] [  410] - Enter keyID: 
+INFO      [12:14:16.832] [setPositionForMinimumBoundingRectangle] [org.ict.geofencing.Main                 ] [Main.java           ] [  416] - Enter field name: 
+INFO      [12:14:25.885] [setPositionForRectangleInputLatitudeLongitude] [org.ict.geofencing.Main                 ] [Main.java           ] [  370] - Enter southwest latitude: 
+INFO      [12:14:34.225] [setPositionForRectangleInputLatitudeLongitude] [org.ict.geofencing.Main                 ] [Main.java           ] [  372] - Enter southwest longitude: 
+INFO      [12:14:38.774] [setPositionForRectangleInputLatitudeLongitude] [org.ict.geofencing.Main                 ] [Main.java           ] [  374] - Enter northeast latitude: 
+INFO      [12:14:42.951] [setPositionForRectangleInputLatitudeLongitude] [org.ict.geofencing.Main                 ] [Main.java           ] [  376] - Enter northeast longitude: 
+INFO      [12:14:47.427] [setPositionForRectangleInputLatitudeLongitude] [org.ict.geofencing.Main                 ] [Main.java           ] [  386] - Successful set position for Rectangle fhDortmund gebaeudeA
+INFO      [12:14:47.445] [main           ] [org.ict.geofencing.Main                 ] [Main.java           ] [ 1175] - Do it again? Enter N/n to quit. Other to do again: 
+INFO      [12:14:49.948] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  113] - Tile38 Menu: 
+INFO      [12:14:49.949] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  114] - 1. Set position for polygon 
+INFO      [12:14:49.949] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  115] - 2. Set position for minimum bounding rectangle
+INFO      [12:14:49.950] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  116] - 3. Set position for point 
+INFO      [12:14:49.950] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  117] - 4. Get all defined objects 
+INFO      [12:14:49.951] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  118] - 5. Find out if object in area 
+INFO      [12:14:49.952] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  119] - 6. Remove all objects using same keyID 
+INFO      [12:14:49.952] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  120] - 7. Remove a specified object 
+INFO      [12:14:49.953] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  121] - 8. Rename a keyID 
+INFO      [12:14:49.953] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  122] - 9. Set server to read only mode 
+INFO      [12:14:49.954] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  123] - 10. Ping to server 
+INFO      [12:14:49.954] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  124] - 11. Get server information 
+INFO      [12:14:49.955] [main           ] [org.ict.geofencing.Main                 ] [Main.java           ] [ 1101] - Enter your choice: 
+INFO      [12:15:14.663] [main           ] [org.ict.geofencing.Main                 ] [Main.java           ] [ 1104] - Choose only number...
+INFO      [12:15:14.663] [main           ] [org.ict.geofencing.Main                 ] [Main.java           ] [ 1171] - Only number from 1 to 10 is acceptable...
+INFO      [12:15:14.664] [main           ] [org.ict.geofencing.Main                 ] [Main.java           ] [ 1175] - Do it again? Enter N/n to quit. Other to do again: 
+INFO      [12:15:16.822] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  113] - Tile38 Menu: 
+INFO      [12:15:16.823] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  114] - 1. Set position for polygon 
+INFO      [12:15:16.823] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  115] - 2. Set position for minimum bounding rectangle
+INFO      [12:15:16.823] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  116] - 3. Set position for point 
+INFO      [12:15:16.823] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  117] - 4. Get all defined objects 
+INFO      [12:15:16.824] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  118] - 5. Find out if object in area 
+INFO      [12:15:16.824] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  119] - 6. Remove all objects using same keyID 
+INFO      [12:15:16.824] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  120] - 7. Remove a specified object 
+INFO      [12:15:16.825] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  121] - 8. Rename a keyID 
+INFO      [12:15:16.825] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  122] - 9. Set server to read only mode 
+INFO      [12:15:16.826] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  123] - 10. Ping to server 
+INFO      [12:15:16.826] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  124] - 11. Get server information 
+INFO      [12:15:16.827] [main           ] [org.ict.geofencing.Main                 ] [Main.java           ] [ 1101] - Enter your choice: 
+INFO      [12:15:19.126] [setPositionForPoint] [org.ict.geofencing.Main                 ] [Main.java           ] [  496] - Set position for a point...
+INFO      [12:15:19.127] [setPositionForPoint] [org.ict.geofencing.Main                 ] [Main.java           ] [  497] - Enter keyID: 
+INFO      [12:15:23.301] [setPositionForPoint] [org.ict.geofencing.Main                 ] [Main.java           ] [  503] - Enter field name: 
+INFO      [12:15:28.912] [setPositionForPointEnterLongitudeLatitude] [org.ict.geofencing.Main                 ] [Main.java           ] [  461] - Enter latitude: 
+INFO      [12:15:35.022] [setPositionForPointEnterLongitudeLatitude] [org.ict.geofencing.Main                 ] [Main.java           ] [  463] - Enter longitude: 
+INFO      [12:15:39.725] [setPositionForPointEnterLongitudeLatitude] [org.ict.geofencing.Main                 ] [Main.java           ] [  472] - Successful set position for point fhDortmund StandortSonnenstr
+INFO      [12:15:39.745] [main           ] [org.ict.geofencing.Main                 ] [Main.java           ] [ 1175] - Do it again? Enter N/n to quit. Other to do again: 
+INFO      [12:15:48.332] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  113] - Tile38 Menu: 
+INFO      [12:15:48.333] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  114] - 1. Set position for polygon 
+INFO      [12:15:48.333] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  115] - 2. Set position for minimum bounding rectangle
+INFO      [12:15:48.333] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  116] - 3. Set position for point 
+INFO      [12:15:48.333] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  117] - 4. Get all defined objects 
+INFO      [12:15:48.333] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  118] - 5. Find out if object in area 
+INFO      [12:15:48.333] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  119] - 6. Remove all objects using same keyID 
+INFO      [12:15:48.334] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  120] - 7. Remove a specified object 
+INFO      [12:15:48.334] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  121] - 8. Rename a keyID 
+INFO      [12:15:48.334] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  122] - 9. Set server to read only mode 
+INFO      [12:15:48.335] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  123] - 10. Ping to server 
+INFO      [12:15:48.335] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  124] - 11. Get server information 
+INFO      [12:15:48.335] [main           ] [org.ict.geofencing.Main                 ] [Main.java           ] [ 1101] - Enter your choice: 
+INFO      [12:15:58.593] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  626] - Get all defined objects...
+INFO      [12:15:58.612] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  652] - Key: fhDortmund
+INFO      [12:15:58.613] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  653] - ID: StandortSonnenstr
+INFO      [12:15:58.616] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  656] - Type: Point
+INFO      [12:15:58.617] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  676] - Coordinates (longitude/latitude): [7.45563,51.50665]
+INFO      [12:15:58.617] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  679] - --------------------------------
+INFO      [12:15:58.617] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  652] - Key: fhDortmund
+INFO      [12:15:58.617] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  653] - ID: gebaeudeA
+INFO      [12:15:58.618] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  664] - Type: Quadrangle
+INFO      [12:15:58.618] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  676] - Coordinates (longitude/latitude): [[[7.457404,51.5056],[7.45823,51.5056],[7.45823,51.506397],[7.457404,51.506397],[7.457404,51.5056]]]
+INFO      [12:15:58.618] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  679] - --------------------------------
+INFO      [12:15:58.618] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  652] - Key: fhDortmund
+INFO      [12:15:58.619] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  653] - ID: sonnenstr
+INFO      [12:15:58.619] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  664] - Type: Quadrangle
+INFO      [12:15:58.619] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  676] - Coordinates (longitude/latitude): [[[7.4552,51.506713],[7.45839,51.506512],[7.458165,51.505421],[7.458165,51.505421],[7.4552,51.506713]]]
+INFO      [12:15:58.619] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  679] - --------------------------------
+INFO      [12:15:58.620] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  690] - Found 3 objects with 1 keys in database.
+INFO      [12:15:58.620] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  692] - 1 are points.
+INFO      [12:15:58.620] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  693] - 0 are triangles.
+INFO      [12:15:58.620] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  694] - 2 are quadrangles.
+INFO      [12:15:58.620] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  695] - 0 are pentagons.
+INFO      [12:15:58.621] [getAllObjectsPoints] [org.ict.geofencing.Main                 ] [Main.java           ] [  696] - 0 are polygons more than >= 5 cornes.
+INFO      [12:15:58.621] [main           ] [org.ict.geofencing.Main                 ] [Main.java           ] [ 1175] - Do it again? Enter N/n to quit. Other to do again: 
+INFO      [12:16:24.953] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  113] - Tile38 Menu: 
+INFO      [12:16:24.953] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  114] - 1. Set position for polygon 
+INFO      [12:16:24.953] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  115] - 2. Set position for minimum bounding rectangle
+INFO      [12:16:24.953] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  116] - 3. Set position for point 
+INFO      [12:16:24.955] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  117] - 4. Get all defined objects 
+INFO      [12:16:24.955] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  118] - 5. Find out if object in area 
+INFO      [12:16:24.956] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  119] - 6. Remove all objects using same keyID 
+INFO      [12:16:24.956] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  120] - 7. Remove a specified object 
+INFO      [12:16:24.957] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  121] - 8. Rename a keyID 
+INFO      [12:16:24.957] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  122] - 9. Set server to read only mode 
+INFO      [12:16:24.958] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  123] - 10. Ping to server 
+INFO      [12:16:24.958] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  124] - 11. Get server information 
+INFO      [12:16:24.959] [main           ] [org.ict.geofencing.Main                 ] [Main.java           ] [ 1101] - Enter your choice: 
+INFO      [12:17:08.690] [checkObjectExistInArea] [org.ict.geofencing.Main                 ] [Main.java           ] [  786] - Check if object exists in area...
+INFO      [12:17:08.691] [checkObjectExistInArea] [org.ict.geofencing.Main                 ] [Main.java           ] [  787] - Enter latitude: 
+INFO      [12:17:13.437] [checkObjectExistInArea] [org.ict.geofencing.Main                 ] [Main.java           ] [  789] - Enter longitude: 
+INFO      [12:17:20.082] [findAreaOfObject] [org.ict.geofencing.Main                 ] [Main.java           ] [  762] - Object was not found in any defined area.
+INFO      [12:17:20.083] [main           ] [org.ict.geofencing.Main                 ] [Main.java           ] [ 1175] - Do it again? Enter N/n to quit. Other to do again: 
+INFO      [12:17:35.971] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  113] - Tile38 Menu: 
+INFO      [12:17:35.972] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  114] - 1. Set position for polygon 
+INFO      [12:17:35.972] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  115] - 2. Set position for minimum bounding rectangle
+INFO      [12:17:35.973] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  116] - 3. Set position for point 
+INFO      [12:17:35.973] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  117] - 4. Get all defined objects 
+INFO      [12:17:35.973] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  118] - 5. Find out if object in area 
+INFO      [12:17:35.974] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  119] - 6. Remove all objects using same keyID 
+INFO      [12:17:35.974] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  120] - 7. Remove a specified object 
+INFO      [12:17:35.974] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  121] - 8. Rename a keyID 
+INFO      [12:17:35.974] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  122] - 9. Set server to read only mode 
+INFO      [12:17:35.975] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  123] - 10. Ping to server 
+INFO      [12:17:35.975] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  124] - 11. Get server information 
+INFO      [12:17:35.975] [main           ] [org.ict.geofencing.Main                 ] [Main.java           ] [ 1101] - Enter your choice: 
+INFO      [12:17:37.383] [checkObjectExistInArea] [org.ict.geofencing.Main                 ] [Main.java           ] [  786] - Check if object exists in area...
+INFO      [12:17:37.383] [checkObjectExistInArea] [org.ict.geofencing.Main                 ] [Main.java           ] [  787] - Enter latitude: 
+INFO      [12:17:41.636] [checkObjectExistInArea] [org.ict.geofencing.Main                 ] [Main.java           ] [  789] - Enter longitude: 
+INFO      [12:17:51.541] [findAreaOfObject] [org.ict.geofencing.Main                 ] [Main.java           ] [  754] - Object was found in 2 following defined area [keyID, fieldName].
+INFO      [12:17:51.541] [findAreaOfObject] [org.ict.geofencing.Main                 ] [Main.java           ] [  758] - [fhDortmund,gebaeudeA]
+INFO      [12:17:51.541] [findAreaOfObject] [org.ict.geofencing.Main                 ] [Main.java           ] [  758] - [fhDortmund,sonnenstr]
+INFO      [12:17:51.542] [main           ] [org.ict.geofencing.Main                 ] [Main.java           ] [ 1175] - Do it again? Enter N/n to quit. Other to do again: 
+INFO      [12:18:11.142] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  113] - Tile38 Menu: 
+INFO      [12:18:11.143] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  114] - 1. Set position for polygon 
+INFO      [12:18:11.143] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  115] - 2. Set position for minimum bounding rectangle
+INFO      [12:18:11.143] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  116] - 3. Set position for point 
+INFO      [12:18:11.143] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  117] - 4. Get all defined objects 
+INFO      [12:18:11.144] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  118] - 5. Find out if object in area 
+INFO      [12:18:11.144] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  119] - 6. Remove all objects using same keyID 
+INFO      [12:18:11.144] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  120] - 7. Remove a specified object 
+INFO      [12:18:11.144] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  121] - 8. Rename a keyID 
+INFO      [12:18:11.145] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  122] - 9. Set server to read only mode 
+INFO      [12:18:11.145] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  123] - 10. Ping to server 
+INFO      [12:18:11.145] [displayMenu    ] [org.ict.geofencing.Main                 ] [Main.java           ] [  124] - 11. Get server information 
+INFO      [12:18:11.146] [main           ] [org.ict.geofencing.Main                 ] [Main.java           ] [ 1101] - Enter your choice: 

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	<Properties>
+		<Property name="log-path">log/</Property>
+	</Properties>
+	<Appenders>
+		<Console name="RootConsoleAppender" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="%highlight{%-5level [%d{HH:mm:ss.SSS}] [%-15M] [%-40logger{40}] [%-20F] [%5L] - %msg%n}{FATAL=Bright red, ERROR=red, WARN=yellow, INFO=white, DEBUG=blue, TRACE=green}" />
+		</Console>
+		<RollingFile name="RollingFileAppender" fileName="${log-path}/out.log"
+			filePattern="${log-path}/mbus-%d{yyyy-MM-dd}-%i.log" append="false">
+			<PatternLayout header="${java:runtime} - ${java:vm} - ${java:os}"
+				pattern="%-5level
+				[%d{HH:mm:ss.SSS}] [%-15M] [%-40logger{40}] [%-20F] [%5L] - %msg%n" />
+			<Policies>
+				<SizeBasedTriggeringPolicy size="10 MB" />
+			</Policies>
+			<DefaultRolloverStrategy max="4" />
+		</RollingFile>
+	</Appenders>
+	<Loggers>
+		<Logger name="java.workshop.T_BASICS" level="info" />
+		<Root level="debug">
+			<AppenderRef ref="RootConsoleAppender" level="info" />
+			<AppenderRef ref="RollingFileAppender" level="debug" />
+		</Root>
+	</Loggers>
+</Configuration>

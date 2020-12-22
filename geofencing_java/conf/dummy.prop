@@ -1,0 +1,4 @@
+# A dummy parameter1 (int)
+parameter1=0
+# A dummy parameter2 (string)
+parameter2=hello
